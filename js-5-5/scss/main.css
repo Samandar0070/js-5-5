@@ -1,0 +1,168 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+.container .header {
+  height: 40px;
+}
+.container .header .btn {
+  background-color: rgba(49, 49, 196, 0.1019607843);
+  color: #3333cc;
+  margin-left: 32px;
+}
+.container .header .input-box {
+  margin-left: 10px;
+  display: flex;
+  border: 1px solid hsla(220, 4%, 48%, 0.3);
+  border-radius: 5px;
+}
+.container .header .input-box .input {
+  width: 490px;
+  border: none;
+}
+.container .header .input-box .btn {
+  margin-left: 0;
+  border: none;
+}
+.container .header .registration {
+  width: 100%;
+  margin-left: 30px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+.container .header .registration .registration__p {
+  display: flex;
+  margin-top: 15%;
+  color: black;
+}
+.container .header .registration:hover {
+  background-color: hsla(220, 4%, 48%, 0.3);
+  cursor: pointer;
+}
+.container .header .favorite {
+  text-decoration: none;
+  color: black;
+  width: 125px;
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+.container .header .favorite .favorite__p {
+  display: flex;
+  margin-top: 15%;
+}
+.container .header .favorite:hover {
+  background-color: hsla(220, 4%, 48%, 0.3);
+  cursor: pointer;
+}
+.container .header .basket {
+  width: 105px;
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+.container .header .basket .basket__p {
+  display: flex;
+  margin-top: 15%;
+}
+.container .header .basket:hover {
+  background-color: hsla(220, 4%, 48%, 0.3);
+  cursor: pointer;
+}
+.container .cards .card-img-top {
+  width: 150px;
+  height: 150px;
+  background-color: hsla(220, 4%, 48%, 0.3);
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container__2 .header__2 {
+  height: 40px;
+}
+.container__2 .header__2 .btn {
+  background-color: rgba(49, 49, 196, 0.1019607843);
+  color: #3333cc;
+  margin-left: 32px;
+  border: none;
+}
+.container__2 .header__2 .input__box {
+  margin-left: 10px;
+  display: flex;
+  border: 1px solid hsla(220, 4%, 48%, 0.3);
+  border-radius: 5px;
+}
+.container__2 .header__2 .input__box .input {
+  width: 490px;
+  border: none;
+}
+.container__2 .header__2 .registration {
+  width: 90px;
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+.container__2 .header__2 .registration .registration__p {
+  display: flex;
+  margin-top: 15%;
+}
+.container__2 .header__2 .registration:hover {
+  background-color: hsla(220, 4%, 48%, 0.3);
+  cursor: pointer;
+}
+.container__2 .header__2 .favorite {
+  text-decoration: none;
+  color: black;
+  width: 125px;
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+.container__2 .header__2 .favorite .favorite__p {
+  display: flex;
+  margin-top: 15%;
+}
+.container__2 .header__2 .favorite:hover {
+  background-color: hsla(220, 4%, 48%, 0.3);
+  cursor: pointer;
+}
+.container__2 .header__2 .basket {
+  width: 105px;
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+}
+.container__2 .header__2 .basket .basket__p {
+  display: flex;
+  margin-top: 15%;
+}
+.container__2 .header__2 .basket:hover {
+  background-color: hsla(220, 4%, 48%, 0.3);
+  cursor: pointer;
+}
+.container__2 .cards .card-img-top {
+  width: 150px;
+  height: 150px;
+  background-color: hsla(220, 4%, 48%, 0.3);
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}/*# sourceMappingURL=main.css.map */
